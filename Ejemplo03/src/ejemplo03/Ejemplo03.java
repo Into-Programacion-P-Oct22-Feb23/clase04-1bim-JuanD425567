@@ -3,24 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplo01;
+package ejemplo03;
 
 /**
  *
- * @author reroes
+ * @author SALA I
  */
-public class Ejemplo01 {
+public class Ejemplo03 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Ejemplo 
-        String nombreEstudiante;
-        nombreEstudiante = "Juan David";
-        System.out.println(nombreEstudiante);
-        nombreEstudiante= "Renato Rojas";
-        System.out.println(nombreEstudiante);
+        // TODO code application logic here
     }
     
 }
